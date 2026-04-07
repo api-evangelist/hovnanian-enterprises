@@ -1,7 +1,12 @@
 aid: hovnanian-enterprises
-url: https://raw.githubusercontent.com/api-evangelist/hovnanian-enterprises/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/hovnanian-enterprises/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.hovnanian-enterprises.com
+description: >-
+  Hovnanian Enterprises is a leading homebuilder in the United States, designing,
+  constructing, marketing, and selling single-family detached homes, attached townhomes,
+  condominiums, and active lifestyle homes.
